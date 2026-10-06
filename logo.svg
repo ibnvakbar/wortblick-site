@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320">
+  <!-- Reading lamp, redrawn from docs/design/logo.png. Colors are the design
+       system's neutral-500, text and accent, plus the light's yellow. -->
+  <rect width="320" height="320" fill="#9b9797"/>
+  <polygon points="122,128 198,128 281,320 39,320" fill="#fbe903"/>
+  <rect x="154" y="0" width="12" height="66" fill="#201e1d"/>
+  <path d="M96 128a64 64 0 0 1 128 0z" fill="#201e1d"/>
+  <circle cx="160" cy="134" r="18.5" fill="#ec3013"/>
+</svg>
